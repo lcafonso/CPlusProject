@@ -15,18 +15,5 @@ Saved
 *.log
 
 # Ignore the sub folders
-Levels/
-Blender/
-heavy_fighter/
-Textures/
-Ships/
-Music/
-Binary_Code_2/
-Sci-FiSoundPack/
-PremiumBeat/
-Explosions/
-Particles_Wind_Control_System/
-shutterstock-hud/
-GalacticLeopard/
-SpaceExcalibur/
-Space_Creator/
+*Levels/
+*StarSphere/
